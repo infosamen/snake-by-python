@@ -1,5 +1,8 @@
-# snake-by-python
-Snake game script with python language for tutorial
+# آموزش ساخت بازی مار با پایتون
+بازی مار یا snake با زبان برنامه نویسی پایتون ساخته شده توسط سام نیکزاد 
+لینک مقاله ی آموزشی بصورت کامل + ویدیو آموزش ساخت بازی مار با پایتون 
+
+https://avasam.ir/post/381/create-snake-game-with-python
 
 ---
 اسکریپت بازی مار با زبان پایتون 
